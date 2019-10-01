@@ -26,5 +26,5 @@ CATATAN:
 - Repo ini buat belajar next dan redux, monggo jika ingin melanjutkan
 - jangan ganti ID orang lain yang sudah ada. first come first serve. Bagi yang mengoverride nama orang lain, maka tidak akan di merge (PR ditolak).
 
-10. Test.
+10. Test di localhost:3000.
 11. Commit perubahan, kemudian lakukan pull request. 
