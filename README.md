@@ -7,8 +7,9 @@ Dalam repository ini anda di challenge untuk membuat sebuah website dengan mengg
 1. Fork Project
 2. Clone ke lokal komputer anda
 3. Buka project dengan Code Editor kesayangan anda
-4. Buka direktory `pages/redux/user`
-5. Tambahkan object baru, format penamaan: `Nama Anda`, atau `NamaAnda123`, dst.
+4. npm install --save
+5. Buka direktory `pages/redux/user`
+6. Tambahkan object baru, format penamaan: `Nama Anda`, atau `NamaAnda123`, dst.
 
 ```
 const initialState = {
@@ -26,5 +27,5 @@ CATATAN:
 - Repo ini buat belajar next dan redux, monggo jika ingin melanjutkan
 - jangan ganti ID orang lain yang sudah ada. first come first serve. Bagi yang mengoverride nama orang lain, maka tidak akan di merge (PR ditolak).
 
-10. Test di localhost:3000.
-11. Commit perubahan, kemudian lakukan pull request. 
+7. Test di localhost:3000.
+8. Commit perubahan, kemudian lakukan pull request. 
