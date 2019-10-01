@@ -11,3 +11,12 @@ export const addMemo = (memo) => ({
     type: 'ADD_MEMO',
     payload: memo
 })
+const initialState = {
+    isLoading: true,
+    contributor: [
+        {
+            name: 'Wisnu'
+        },
+    ],
+    error: null
+}
