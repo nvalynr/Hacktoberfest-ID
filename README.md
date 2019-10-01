@@ -3,7 +3,19 @@
 
 Dalam repository ini anda di challenge untuk membuat sebuah website dengan menggunakan React JS dengan micro framework Next JS.
 
-### Cara Berkontribusi:
+
+# React/Next JS Hacktober ID
+## WEB Challenge
+
+Dalam repository ini anda di challenge untuk membuat sebuah website dengan menggunakan React JS dengan micro framework Next JS.
+
+### Cara Berkontribusi Simpel:
+1. Buka [pages/redux/reducers](https://github.com/akimabs/Hacktoberfest-ID/blob/master/pages/redux/_reducers/user.js)
+2. Klik Icon pensil di atas pojok kiri
+3. Tambahkan object baru, format penamaan: `Nama Anda`, atau `NamaAnda123`, dst.
+3. Commit perubahan, kemudian lakukan pull request. 
+
+### Cara Berkontribusi Lebih Lanjut:
 1. Fork Project
 2. Clone ke lokal komputer anda
 3. Buka project dengan Code Editor kesayangan anda
