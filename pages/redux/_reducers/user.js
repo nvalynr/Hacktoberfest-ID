@@ -5,6 +5,11 @@ const initialState = {
             name: 'Abdul Hakim'
         },
     ],
+    contributor: [
+        {
+            name: 'Marino Imola'
+        },
+    ],
     error: null
 }
 
